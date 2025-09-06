@@ -72,7 +72,7 @@ Pagamentos (gateway + **PIX**), CEP/Mapas (validação e zona), mensageria(whats
 10. Como admin **Definir taxa por zona**
 11. Como admin **Criar cupons**
 12. Como atendente **cancelar pedido**
-13. 
+ 
     
 
 
